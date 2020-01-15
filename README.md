@@ -2,6 +2,7 @@
 
 
 Javadoc: https://ucsb-cs56-w20.github.io/lab02_juanmendozamartinez19/
+
 Repo: https://github.com/ucsb-cs56-w20/lab02_juanmendozamartinez19
 
 # About this repo
